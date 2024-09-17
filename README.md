@@ -40,3 +40,5 @@ Random sampling is a technique used to estimate the area under a curve by sampli
 - Print the result.
 
 **True Area:** The exact area under the curve is `866.6` . Compare your approximations to this value to evaluate their accuracy.
+
+**Mark: **For this project I achieved a 75/100
